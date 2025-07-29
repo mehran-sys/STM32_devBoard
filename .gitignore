@@ -1,0 +1,7 @@
+__Previews/
+History/
+Project Logs for STM32_devKit/
+*.tmp
+*.bak
+*.PrjPcbStructure
+*.DbLink
